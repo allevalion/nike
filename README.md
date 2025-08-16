@@ -48,3 +48,8 @@ npm install
 | `npm run format`  | Автоматически форматирует HTML, CSS и JS файлы c помощью Prettier |
 
 ---
+
+> [!NOTE]
+> This project is a personal, non-commercial educational project created for learning purposes only.
+> It is **not affiliated with, endorsed by, or connected to Nike, Inc** in any way.
+> All trademarks, logos, and brand names are the property of their respective owners.

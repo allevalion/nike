@@ -67,6 +67,14 @@ const Footer = () => {
           Terms & Conditions
         </a>
       </div>
+      <div>
+        <p className="text-white-400 mt-10 font-montserrat max-w-[70%] max-sm:justify-self-center max-sm:text-center">
+          This project is a personal, non-commercial educational project created
+          for learning purposes only. It is not affiliated with, endorsed by, or
+          connected to Nike, Inc. in any way. All trademarks, logos, and brand
+          names are the property of their respective owners.
+        </p>
+      </div>
     </footer>
   );
 };
